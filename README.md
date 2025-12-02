@@ -31,7 +31,6 @@ Models evaluated include:
 - Decision Tree Regression
 - Support Vector Machine (SVM) Regression
 - Random Forest Regression
-- AdaBoost Regression
 
 ## Dependencies
 The project requires the following Python libraries:
