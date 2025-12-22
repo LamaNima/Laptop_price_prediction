@@ -26,7 +26,7 @@ The dataset contains information about laptops with features such as:
 ## 🌐 Live Demo
 
 🚀 **The project is deployed and accessible here:**  
-👉 **https://nima-movie-recommender.streamlit.app/**
+👉 **https://laptop-price-prediction-using-ml.streamlit.app/**
 
 ---
 
